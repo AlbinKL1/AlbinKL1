@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlbinKL1
+- 👋 Hi, I’m @AlbinKL
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning java development.
 - 💞️ I’m looking to collaborate on java code.
