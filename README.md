@@ -22,11 +22,11 @@ Passionate software engineer with expertise in **Java, Spring Boot, React/Next.j
 ## 🛠️ My Skills
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark" alt="´Next.js" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark" alt="Node.js" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" alt="Figma" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="React" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&theme=dark" alt="TypeScript" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" alt="Spring" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="React.js" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark" alt="Next.js" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=dark" alt="Javascript" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&theme=dark" alt="Typescript" height="40"/>
 </p>
 
 **Other Skills:**
