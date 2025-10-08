@@ -44,29 +44,14 @@ I’m a young and driven software engineer passionate about using technology to 
     <td align="center" width="150"><img src="https://go-skill-icons.vercel.app/api/icons?i=junit&theme=dark" alt="JUnit" height="50"/><br>JUnit</td>
     <td align="center" width="150"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" alt="Postman" height="50"/><br>Postman</td> 
  </tr> 
+  <tr> 
+    <td align="center" width="150"><img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=dark" alt="CSS" height="50"/><br>CSS</td>
+    <td align="center" width="150"><img src="https://go-skill-icons.vercel.app/api/icons?i=html&theme=dark" alt="HTML" height="50"/><br>HTML</td>
+    <td align="center" width="150"><img src="https://go-skill-icons.vercel.app/api/icons?i=webpack&theme=dark" alt="Webpack" height="50"/><br>Webpack</td> 
+    <td align="center" width="150"><img src="https://go-skill-icons.vercel.app/api/icons?i=swagger&theme=dark" alt="Swagger" height="50"/><br>Swagger</td>
+    <td align="center" width="150"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss&theme=dark" alt="Tailwindcss" height="50"/><br>Tailwindcss</td> 
+ </tr> 
 </table> 
-</p>
-
----
-
-<!-- ====== GITHUB STATS ====== -->
-<h2 align="center">
-  <span style="color:red">GitHub</span> Stats 📊
-</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AlbinKL1&show_icons=true&theme=radical" 
-    alt="Albin's GitHub Stats" 
-    height="150" 
-    width="350"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinKL1&layout=compact&theme=radical" 
-    alt="Top Languages" 
-    height="150" 
-    width="350"
-  />
 </p>
 
 ---
