@@ -27,32 +27,46 @@ I’m a young and driven software engineer passionate about using technology to 
   <span style="color:red">My</span> Skills 🛠️
 </h3>
 
+## 🛠️ My Skills
+
 <p align="center">
-<!-- Java & Frameworks -->
+
+<!-- ====== Java & Frameworks ====== -->
+<b>Java & Frameworks</b><br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" alt="Spring Boot" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="React.js" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark" alt="Next.js" height="40"/>
+<br><br>
 
-<!-- Scripting -->
+<!-- ====== Scripting ====== -->
+<b>JavaScript / TypeScript</b><br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=dark" alt="Javascript" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&theme=dark" alt="Typescript" height="40"/>
+<br><br>
 
-<!-- Databases -->
+<!-- ====== Databases ====== -->
+<b>Database Management</b><br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" alt="MySQL" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" alt="PostgreSQL" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark" alt="MongoDB" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql&theme=dark" alt="GraphQL" height="40"/>
+<br><br>
 
-<!-- Testing & Security -->
+<!-- ====== Testing & Security ====== -->
+<b>Testing & Security</b><br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=junit&theme=dark" alt="JUnit" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium&theme=dark" alt="Selenium" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" alt="Postman" height="40"/>
+<br><br>
 
-<!-- Git & Workflow -->
+<!-- ====== Git & Workflow ====== -->
+<b>Git & Workflow</b><br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" alt="Git" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" alt="GitHub" height="40"/>
 </p>
+
+---
 
 <!-- ====== CONTACT ====== -->
 <h3 align="center">
