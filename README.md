@@ -19,7 +19,9 @@ Passionate software engineer with expertise in **Java, Spring Boot, React/Next.j
 ---
 
 <!-- ====== SKILLS ====== -->
-## 🛠️ My Skills
+<h2 align="center">
+  <span style="color:red">My</span> Skills 🛠️
+</h2>
 <p align="center">
 <!-- Java & Frameworks -->
 <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" height="40"/>
