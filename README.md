@@ -63,13 +63,13 @@ Passionate software engineer with expertise in **Java, Spring Boot, React/Next.j
 <!-- ====== CONTACT ====== -->
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/AlbinKL1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/albin-kaufeldt-l%C3%B6nn-476144234/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:albin.kaufeldt.lonn@outlook.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
