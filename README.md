@@ -27,43 +27,55 @@ I’m a young and driven software engineer passionate about using technology to 
   <span style="color:red">My</span> Skills 🛠️
 </h3>
 
-## 🛠️ My Skills
-
 <p align="center">
+  
+<b>Java & Frameworks</b><br><br>
 
-<!-- ====== Java & Frameworks ====== -->
-<b>Java & Frameworks</b><br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" height="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" alt="Spring Boot" height="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="React.js" height="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark" alt="Next.js" height="40"/>
-<br><br>
+<table>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" height="50"/><br>Java</td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" alt="Spring Boot" height="50"/><br>Spring Boot</td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="React.js" height="50"/><br>React.js</td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark" alt="Next.js" height="50"/><br>Next.js</td>
+  </tr>
+</table>
+<br>
 
-<!-- ====== Scripting ====== -->
-<b>JavaScript / TypeScript</b><br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=dark" alt="Javascript" height="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&theme=dark" alt="Typescript" height="40"/>
-<br><br>
+<b>JavaScript / TypeScript</b><br><br>
 
-<!-- ====== Databases ====== -->
-<b>Database Management</b><br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" alt="MySQL" height="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" alt="PostgreSQL" height="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark" alt="MongoDB" height="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=graphql&theme=dark" alt="GraphQL" height="40"/>
-<br><br>
+<table>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=dark" alt="Javascript" height="50"/><br>JavaScript</td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&theme=dark" alt="Typescript" height="50"/><br>TypeScript</td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" alt="MySQL" height="50"/><br>MySQL</td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" alt="PostgreSQL" height="50"/><br>PostgreSQL</td>
+  </tr>
+</table>
+<br>
 
-<!-- ====== Testing & Security ====== -->
-<b>Testing & Security</b><br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=junit&theme=dark" alt="JUnit" height="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium&theme=dark" alt="Selenium" height="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" alt="Postman" height="40"/>
-<br><br>
+<b>Database & API</b><br><br>
 
-<!-- ====== Git & Workflow ====== -->
-<b>Git & Workflow</b><br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" alt="Git" height="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" alt="GitHub" height="40"/>
+<table>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark" alt="MongoDB" height="50"/><br>MongoDB</td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=graphql&theme=dark" alt="GraphQL" height="50"/><br>GraphQL</td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=junit&theme=dark" alt="JUnit" height="50"/><br>JUnit</td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=selenium&theme=dark" alt="Selenium" height="50"/><br>Selenium</td>
+  </tr>
+</table>
+<br>
+
+<b>Testing & Git Workflow</b><br><br>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" alt="Postman" height="50"/><br>Postman</td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" alt="Git" height="50"/><br>Git</td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" alt="GitHub" height="50"/><br>GitHub</td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=cloud&theme=dark" alt="Cloud" height="50"/><br>Cloud</td>
+  </tr>
+</table>
+
 </p>
 
 ---
