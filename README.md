@@ -20,7 +20,7 @@ Passionate software engineer with expertise in **Java, Spring Boot, React/Next.j
 
 <!-- ====== SKILLS ====== -->
 ## 🛠️ My Skills
-<p align="left">
+<p align="center">
 <!-- Java & Frameworks -->
 <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" alt="Spring Boot" height="40"/>
@@ -46,19 +46,6 @@ Passionate software engineer with expertise in **Java, Spring Boot, React/Next.j
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" alt="Git" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" alt="GitHub" height="40"/>
 </p>
-
-**Other Skills:**
-- Database Development (SQL, NoSQL)  
-- JEE (Jakarta Enterprise Edition)  
-- IT Security & Software Testing  
-- Integration & Webservices  
-- Generative AI  
-- Git & GitHub  
-- Agile Workflow  
-- Clean Code Principles  
-- Cloud Services  
-
----
 
 <!-- ====== CONTACT ====== -->
 ## 📫 Connect with Me
