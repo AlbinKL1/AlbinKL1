@@ -41,14 +41,10 @@ Passionate software engineer with expertise in **Java, Spring Boot, React/Next.j
 <img src="https://go-skill-icons.vercel.app/api/icons?i=junit&theme=dark" alt="JUnit" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium&theme=dark" alt="Selenium" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" alt="Postman" height="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=shield&theme=dark" alt="Security" height="40"/>
 
 <!-- Git & Workflow -->
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" alt="Git" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" alt="GitHub" height="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=agile&theme=dark" alt="Agile" height="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cloud&theme=dark" alt="Cloud" height="40"/>
-
 </p>
 
 **Other Skills:**
