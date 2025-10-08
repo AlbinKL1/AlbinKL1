@@ -27,22 +27,36 @@ I’m a young and driven software engineer passionate about using technology to 
   <span style="color:red">My</span> Skills 🛠️
 </h2>
 
+<style>
+  .skill-box {
+    width: 150px;   /* Box width */
+    height: 120px;  /* Box height including icon + label */
+    text-align: center;
+    vertical-align: top;
+  }
+
+  .skill-icon {
+    height: 50px;   /* Icon size */
+    margin-bottom: 5px;
+  }
+</style>
+
 <p align="center">
 
-<table align="center">
+<table>
   <tr>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java       " height="50"/><br>Java</td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" alt="Spring Boot" height="50"/><br>Spring Boot</td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="React.js   " height="50"/><br>React.js</td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark" alt="Next.js    " height="50"/><br>Next.js</td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=dark" alt="JavaScript " height="50"/><br>JavaScript</td>
+    <td class="skill-box"><img class="skill-icon" src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java"/><br>Java</td>
+    <td class="skill-box"><img class="skill-icon" src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" alt="Spring Boot"/><br>Spring Boot</td>
+    <td class="skill-box"><img class="skill-icon" src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="React.js"/><br>React.js</td>
+    <td class="skill-box"><img class="skill-icon" src="https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark" alt="Next.js"/><br>Next.js</td>
+    <td class="skill-box"><img class="skill-icon" src="https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=dark" alt="JavaScript"/><br>JavaScript</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&theme=dark" alt="TypeScript" height="50"/><br>TypeScript</td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" alt="MySQL     " height="50"/><br>MySQL</td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=graphql&theme=dark" alt="GraphQL   " height="50"/><br>GraphQL</td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=junit&theme=dark" alt="JUnit     " height="50"/><br>JUnit</td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" alt="Postman   " height="50"/><br>Postman</td>
+    <td class="skill-box"><img class="skill-icon" src="https://go-skill-icons.vercel.app/api/icons?i=typescript&theme=dark" alt="TypeScript"/><br>TypeScript</td>
+    <td class="skill-box"><img class="skill-icon" src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" alt="MySQL"/><br>MySQL</td>
+    <td class="skill-box"><img class="skill-icon" src="https://go-skill-icons.vercel.app/api/icons?i=graphql&theme=dark" alt="GraphQL"/><br>GraphQL</td>
+    <td class="skill-box"><img class="skill-icon" src="https://go-skill-icons.vercel.app/api/icons?i=junit&theme=dark" alt="JUnit"/><br>JUnit</td>
+    <td class="skill-box"><img class="skill-icon" src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" alt="Postman"/><br>Postman</td>
   </tr>
 </table>
 
