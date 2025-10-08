@@ -21,12 +21,34 @@ Passionate software engineer with expertise in **Java, Spring Boot, React/Next.j
 <!-- ====== SKILLS ====== -->
 ## 🛠️ My Skills
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" alt="Spring" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="React.js" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark" alt="Next.js" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=dark" alt="Javascript" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&theme=dark" alt="Typescript" height="40"/>
+<!-- Java & Frameworks -->
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" alt="Spring Boot" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="React.js" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark" alt="Next.js" height="40"/>
+
+<!-- Scripting -->
+<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=dark" alt="Javascript" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&theme=dark" alt="Typescript" height="40"/>
+
+<!-- Databases -->
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" alt="MySQL" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" alt="PostgreSQL" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark" alt="MongoDB" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=graphql&theme=dark" alt="GraphQL" height="40"/>
+
+<!-- Testing & Security -->
+<img src="https://go-skill-icons.vercel.app/api/icons?i=junit&theme=dark" alt="JUnit" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium&theme=dark" alt="Selenium" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" alt="Postman" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=shield&theme=dark" alt="Security" height="40"/>
+
+<!-- Git & Workflow -->
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" alt="Git" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" alt="GitHub" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=agile&theme=dark" alt="Agile" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cloud&theme=dark" alt="Cloud" height="40"/>
+
 </p>
 
 **Other Skills:**
