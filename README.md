@@ -12,11 +12,13 @@
 <h2 align="center">
   <span style="color:red">About</span> Me 
 </h2>
-Passionate software engineer with expertise in **Java, Spring Boot, React/Next.js**, and a keen interest in **Generative AI**. I love building scalable, secure, and innovative solutions, following **clean code principles** and **agile workflows**.
+I’m a young and driven software engineer passionate about using technology to solve complex problems and build meaningful, efficient solutions. What excites me most about coding is the combination of logic, creativity, and problem-solving it demands — every challenge is a new opportunity to learn, adapt, and grow. I approach software development with curiosity and determination, always seeking to understand not just how things work, but why they work the way they do.
 
-- 🌱 Currently exploring **advanced AI integrations** and cloud-native architectures  
-- 💼 Experienced in **web & database development**, **JEE**, and **IT security**  
-- ⚡ I thrive on solving complex problems and creating efficient software systems  
+-  Experienced in Java, Spring Boot, React/Next.js, and JavaScript/TypeScript, building scalable and maintainable applications. Skilled in database management, including MySQL, PostgreSQL, MongoDB, and GraphQL.
+
+-  Passionate about developing full-stack solutions with clean code, efficient architecture, and strong problem-solving skills. Comfortable working with JEE, IT security, and integration of web services.
+
+-  Currently exploring Generative AI and advanced cloud-native architectures, applying modern AI techniques to real-world applications.
 
 ---
 
