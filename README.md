@@ -23,15 +23,13 @@ I’m a young and driven software engineer passionate about using technology to 
 ---
 
 <!-- ====== SKILLS ====== -->
-<h3 align="center">
+<h2 align="center">
   <span style="color:red">My</span> Skills 🛠️
-</h3>
-
-## 🛠️ My Skills
+</h2>
 
 <p align="center">
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" height="50"/><br>Java</td>
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" alt="Spring Boot" height="50"/><br>Spring Boot</td>
@@ -54,9 +52,9 @@ I’m a young and driven software engineer passionate about using technology to 
 ---
 
 <!-- ====== CONTACT ====== -->
-<h3 align="center">
+<h2 align="center">
   <span style="color:red">📫 Connect</span> with Me 
-</h3>
+</h2>
 
 <p align="center">
   <a href="https://github.com/AlbinKL1" target="_blank">
