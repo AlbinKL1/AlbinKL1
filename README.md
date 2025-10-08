@@ -22,7 +22,7 @@ Passionate software engineer with expertise in **Java, Spring Boot, React/Next.j
 ## 🛠️ My Skills
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark" alt="Kotlin" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark" alt="´Next.js" height="40"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark" alt="Node.js" height="40"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" alt="Figma" height="40"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="React" height="40"/>
