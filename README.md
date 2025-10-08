@@ -9,7 +9,9 @@
 ---
 
 <!-- ====== ABOUT ME ====== -->
-## About Me
+<h2 align="center">
+  <span style="color:red">About</span> Me 
+</h2>
 Passionate software engineer with expertise in **Java, Spring Boot, React/Next.js**, and a keen interest in **Generative AI**. I love building scalable, secure, and innovative solutions, following **clean code principles** and **agile workflows**.
 
 - 🌱 Currently exploring **advanced AI integrations** and cloud-native architectures  
@@ -19,9 +21,10 @@ Passionate software engineer with expertise in **Java, Spring Boot, React/Next.j
 ---
 
 <!-- ====== SKILLS ====== -->
-<h2 align="center">
+<h3 align="center">
   <span style="color:red">My</span> Skills 🛠️
-</h2>
+</h3>
+
 <p align="center">
 <!-- Java & Frameworks -->
 <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" height="40"/>
@@ -50,7 +53,10 @@ Passionate software engineer with expertise in **Java, Spring Boot, React/Next.j
 </p>
 
 <!-- ====== CONTACT ====== -->
-## 📫 Connect with Me
+<h3 align="center">
+  <span style="color:red">📫 Connect</span> with Me 
+</h3>
+
 <p align="center">
   <a href="https://github.com/AlbinKL1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
