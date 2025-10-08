@@ -58,14 +58,14 @@ I’m a young and driven software engineer passionate about using technology to 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=AlbinKL1&show_icons=true&theme=radical" 
     alt="Albin's GitHub Stats" 
-    height="180" 
-    width="500"
+    height="150" 
+    width="350"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinKL1&layout=compact&theme=radical" 
     alt="Top Languages" 
-    height="180" 
-    width="500"
+    height="150" 
+    width="350"
   />
 </p>
 
